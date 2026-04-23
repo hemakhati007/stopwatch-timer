@@ -6,7 +6,7 @@
     height:fit-content;
     /* outline:solid rgb(254, 149, 166); */
 
-     background-color: rgb(251, 147, 183);
+     background-color: rgb(246, 177, 201);
     box-shadow: 2px 2px 5px rgb(249, 87, 144) ;
     /* height:fit-content; */
 
@@ -26,7 +26,8 @@
 
 .selection-board{
     /* outline: solid rgb(254, 149, 166); */
-    background-color: rgb(255, 192, 203);
+   
+     background-color: rgb(246, 177, 201);
 
     width: 225px;
     height:150px;

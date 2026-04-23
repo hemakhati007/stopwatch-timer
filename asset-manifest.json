@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tick-tick/static/css/main.26633106.css",
-    "main.js": "/tick-tick/static/js/main.29cf04f9.js",
-    "static/js/453.1d28a93e.chunk.js": "/tick-tick/static/js/453.1d28a93e.chunk.js",
-    "index.html": "/tick-tick/index.html",
-    "main.26633106.css.map": "/tick-tick/static/css/main.26633106.css.map",
-    "main.29cf04f9.js.map": "/tick-tick/static/js/main.29cf04f9.js.map",
-    "453.1d28a93e.chunk.js.map": "/tick-tick/static/js/453.1d28a93e.chunk.js.map"
+    "main.css": "/stopwatch-timer/static/css/main.26633106.css",
+    "main.js": "/stopwatch-timer/static/js/main.8f183132.js",
+    "static/js/453.1d28a93e.chunk.js": "/stopwatch-timer/static/js/453.1d28a93e.chunk.js",
+    "index.html": "/stopwatch-timer/index.html",
+    "main.26633106.css.map": "/stopwatch-timer/static/css/main.26633106.css.map",
+    "main.8f183132.js.map": "/stopwatch-timer/static/js/main.8f183132.js.map",
+    "453.1d28a93e.chunk.js.map": "/stopwatch-timer/static/js/453.1d28a93e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.26633106.css",
-    "static/js/main.29cf04f9.js"
+    "static/js/main.8f183132.js"
   ]
 }

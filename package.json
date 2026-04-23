@@ -2,7 +2,7 @@
   "name": "timer-stopwatch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hema007.github.io/tick-tick",
+  "homepage": "https://hema007.github.io/stopwatch-timer",
 
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
